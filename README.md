@@ -7,3 +7,5 @@ In this repository I am trying to analyse historical trends in the crude oil pri
 For now I have worked on the below two:
   1) Statistics and Financial Data Structure
   2) Machine Learning in Market Making
+  3) Machine Learning in Passive Investment - Regression Analysis
+  4) Machine Learning in Active Investment
